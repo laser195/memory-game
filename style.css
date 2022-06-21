@@ -1,0 +1,21 @@
+span {
+  margin: 2px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300 px;
+  height: 90vh;
+  border: 1px solid #706565;
+  background-image: linear-gradient(to right top, #3e6baf, #6965bb, #9857bb, #c640ab, #eb128d);
+}
+.grid img {
+  width: 25%;
+  height: 35%;
+  border: 1px sold #474545;
+  
+
+}
+
+/*# sourceMappingURL=style.css.map */
